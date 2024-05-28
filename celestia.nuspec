@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>celestia</id>
-    <version>1.6.2.2</version>
+    <version>1.6.4</version>
     <title>celestia</title>
     <authors>Celestia Development Team</authors>
     <owners>awatchanaman</owners>
