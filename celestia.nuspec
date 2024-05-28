@@ -8,11 +8,11 @@
     <authors>Celestia Development Team</authors>
     <owners>awatchanaman</owners>
     <projectUrl>https://celestia.space/</projectUrl>
-    <iconUrl>https://github.com/CelestiaProject/Celestia/blob/master/celestia-logo.png?raw=true</iconUrl>-->
+    <iconUrl>https://github.com/CelestiaProject/Celestia/blob/master/celestia-logo.png?raw=true</iconUrl>
     <licenseUrl>http://sourceforge.net/p/celestia/code/HEAD/tree/trunk/celestia/COPYING</licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>-->
-    <projectSourceUrl>https://github.com/CelestiaProject/Celestia</projectSourceUrl>-->
-    <docsUrl>https://celestia.space/faq.html</docsUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/CelestiaProject/Celestia</projectSourceUrl>
+    <docsUrl>https://celestia.space/faq.html</docsUrl>
     <tags>celestia 3d astronomy education simulation</tags>
     <summary>Real-time 3D visualization of space</summary>
     <description>Unlike most planetarium software, Celestia doesn't confine you to the surface of the Earth. You can travel throughout the solar system, to any of over 100,000 stars, or even beyond the galaxy.
