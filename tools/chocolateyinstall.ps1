@@ -15,4 +15,4 @@ $packageArgs = @{
 
 Install-ChocolateyPackage @packageArgs
 
-Remove-Item -Path "$env:TEMP\usm-celestia" -Recurse -Force
+Remove-Item -Path "$env:TEMP\celestia" -Recurse -Force
